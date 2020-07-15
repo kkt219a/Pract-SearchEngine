@@ -1,4 +1,4 @@
-# Pract-SearchEngine
+# Pract-SearchEngine(2019-05)
 
 단어 검색 알고리즘의 효율성을 테스트하기 위한 자바 솔루션
 
